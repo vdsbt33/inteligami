@@ -1,0 +1,10 @@
+C:\Users\vinicius.souza\source\repos\Inteligami\Inteligami\bin\Debug\Inteligami.exe.config
+C:\Users\vinicius.souza\source\repos\Inteligami\Inteligami\bin\Debug\Inteligami.exe
+C:\Users\vinicius.souza\source\repos\Inteligami\Inteligami\bin\Debug\Inteligami.pdb
+C:\Users\vinicius.souza\source\repos\Inteligami\Inteligami\obj\Debug\Inteligami.csprojAssemblyReference.cache
+C:\Users\vinicius.souza\source\repos\Inteligami\Inteligami\obj\Debug\Inteligami.Form1.resources
+C:\Users\vinicius.souza\source\repos\Inteligami\Inteligami\obj\Debug\Inteligami.Properties.Resources.resources
+C:\Users\vinicius.souza\source\repos\Inteligami\Inteligami\obj\Debug\Inteligami.csproj.GenerateResource.cache
+C:\Users\vinicius.souza\source\repos\Inteligami\Inteligami\obj\Debug\Inteligami.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.souza\source\repos\Inteligami\Inteligami\obj\Debug\Inteligami.exe
+C:\Users\vinicius.souza\source\repos\Inteligami\Inteligami\obj\Debug\Inteligami.pdb
